@@ -14,8 +14,11 @@ Initially we wanted to investigate infant mortality from a global perspective bu
 **https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm
 
 Data Sources:
+
 CDC infant mortality data: https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortality.htm
+
 Demographic and socio-economic data:
 See: https://github.com/datamade/census for library documentation
 See: https://gist.github.com/afhaque/60558290d6efd892351c4b64e5c01e9b for labels
+
 State names and abbreviations csv: https://worldpopulationreview.com/states/state-abbreviations
