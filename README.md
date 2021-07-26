@@ -13,7 +13,8 @@ Initially we wanted to investigate infant mortality from a global perspective bu
 *https://www.americashealthrankings.org/learn/reports/2018-annual-report/findings-international-comparison
 **https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm
 
-![infant_mortality_poverty](https://user-images.githubusercontent.com/73403293/125843834-ad4b1a23-4245-4ef0-a16a-dd257153648b.jpg)
+![new_infant_mortality](https://user-images.githubusercontent.com/73403293/127058492-15d06246-ebe8-48ba-84ed-0af9a9387e07.jpg)
+
 
 Data Sources:
 
